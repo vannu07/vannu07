@@ -58,21 +58,12 @@
 
 ---
 
-### 🚀 My Projects
+### 🐍 GitHub Contribution Snake Game
 
-- **[FarmIQ – Smart Farming Assistant](https://github.com/vannu07/farmIQ)**  
-  💡 Python + Flask app for crop and fertilizer recommendation, plant disease detection using ML & CNNs.
+<p align="center">
+  <img src="https://github.com/vannu07/vannu07/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
-- **[Student Performance Analyzer](https://github.com/vannu07/student-performance-analyzer)**  
-  📊 End-to-end ML pipeline built with SQL, MLflow & Flask for predicting student outcomes.
-
-- **[Sentiment Analysis – E-Commerce Reviews](https://github.com/vannu07/sentiment-analysis)**  
-  💬 NLP pipeline using TF-IDF + SVM + Random Forest achieving high accuracy.
-
-- **[Traffic Sign Detection](https://github.com/vannu07/traffic-sign-detection)**  
-  🚦 Real-time image recognition using CNN + OpenCV for detecting traffic signs.
-
----
 
 ### 📬 Connect With Me
 
