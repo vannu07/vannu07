@@ -45,11 +45,18 @@
 
 ---
 
-### 📊 GitHub Stats
+---
+
+### 📊 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vannu07&show_icons=true&theme=radical" height="160" alt="Varnit’s GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vannu07&theme=radical" height="160" alt="Varnit’s GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vannu07&theme=radical" alt="Streak Stats" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=vannu07&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophy" />
+  <br />
+  ![Visitor Badge](https://komarev.com/ghpvc/?username=vannu07&style=flat-square&color=brightgreen)
 </p>
+
 
 ---
 
