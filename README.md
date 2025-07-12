@@ -119,7 +119,7 @@
 ### 🎧 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q4gr6smbsxu42wundlypvbfppu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
 </p>
 
 > 🔧 Replace `YOUR_SPOTIFY_USER_ID` with your actual Spotify ID and set up the [Spotify GitHub App](https://github.com/kittinan/spotify-profile) if not done.
