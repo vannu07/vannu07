@@ -63,6 +63,9 @@
 <p align="center">
   <img src="https://github.com/vannu07/vannu07/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vannu07&layout=compact&theme=tokyonight)
+
 
 
 ### 📬 Connect With Me
