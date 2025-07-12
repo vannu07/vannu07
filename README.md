@@ -1,32 +1,67 @@
 <h1 align="center">Hey there 👋, I'm Varnit Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | Machine Learning Enthusiast | Ex-Amazon</h3>
+<h3 align="center">Aspiring Data Analyst | Machine Learning Enthusiast | Ex-Amazon | MCA @ GGSIPU</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="300" alt="coding-gif" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Data+Science+%7C+ML+%7C+Analytics+Enthusiast;Turning+Data+into+Decisions;Always+Building%2C+Always+Learning!" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 💡 About Me
 
-- 🎓 MCA Student at GGSIPU, New Delhi  
-- 💼 Ex-Amazon | Cultural & Engagement Ambassador | Cricket Team Captain  
-- 🔍 Passionate about turning data into meaningful insights  
+- 🎓 MCA Student at GGSIPU (9.2 CGPA)
+- 💼 Ex-Amazon ML Data Associate (2024)  
+- 🤝 Open to collaborations, hackathons, and internships  
 - 🧠 Currently exploring Power BI, Prompt Engineering & MLOps  
-- 🤝 Always open to impactful collaborations, research & hackathons  
-- 🛠️ Projects: [FarmIQ](#) (End-to-End ML), [Android Malware Detection](#)  
-- ✨ Personal motto: *“Build with purpose, code with clarity.”*
+- 🛠️ Passionate about building real-world, AI-driven solutions  
+- 🏏 Cricket Team Captain | Cultural Ambassador @ Amazon
+
+---
+
+### 🚀 Featured Projects
+
+- 🧑‍🌾 **[FarmIQ – Smart Farming Assistant](#)**  
+  AI-powered system for crop recommendation, fertilizer guidance, and disease detection using Flask, ML, WeatherAPI, and CNNs.
+
+- 🎓 **[Student Performance Analyzer](#)**  
+  Complete ML pipeline with SQL, MLflow, Flask. Predicts student grades using modular SDLC architecture and deployed REST APIs.
+
+- 💬 **[Sentiment Analysis for E-commerce](#)**  
+  TF-IDF + SVM/Logistic Regression pipeline with 90%+ accuracy using NLP, lemmatization, and feature engineering.
+
+- 🚦 **[Traffic Sign Detection](#)**  
+  Real-time CNN-based image classifier using TensorFlow, PyTorch, and OpenCV. Applied image augmentation and deployment-ready.
+
+---
+
+### 📜 Certifications
+
+- 🧠 Career Essentials in Data Analysis – Microsoft & LinkedIn  
+- 🐍 Programming with Python – OpenEDG Python Institute  
+- 📊 The Complete SQL Bootcamp – Udemy  
+- 📈 Fundamentals of Analytics on AWS (Part 1 & 2)  
+- 🔍 Essentials of Prompt Engineering – AWS  
+- 🤖 Machine Learning & AI Fundamentals – AWS  
+- 🧮 SQL Certificate – HackerRank  
+- 📉 Master Microsoft Excel – LinkedIn Learning
+
+---
+
+### 🧪 Job Simulations (Forage Virtual Internships)
+
+- 📊 Deloitte Australia – Data Analytics  
+- 📈 Accenture North America – Data Analytics & Visualization  
+- 📉 Tata – Business Data Visualization  
+- 📦 Quantium – Retail Data Analytics
 
 ---
 
 ### 🛠️ Tools & Technologies
 
-#### 🔣 Programming & Querying
+#### 🧠 Programming, ML & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-#### 📊 Data Analysis & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -50,27 +85,29 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-#### 🛠️ Tools
+#### 🛠️ Other Tools
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-009688?style=flat&logo=dataiku&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 📊 Top Languages
 
 <p align="center">
-  <img src="https://github.com/vannu07/vannu07/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannu07&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" />
 </p>
 
 ---
 
-### 📊 Top Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannu07&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" alt="Top Langs" /> </p>
+### 🏅 Leadership & Extras
+
+- 🧑‍💼 **Cultural & Engagement Ambassador @ Amazon** – Drove team-building activities, events & cross-department collaboration.  
+- 🏏 **Cricket Team Captain @ BCIIT** – Leading on-field strategy and team coordination in inter-college leagues.
 
 ---
 
-### 📬 Let's Connect
+### 📬 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/varnit-kumar-0883bb251" target="_blank">
@@ -86,4 +123,4 @@
 
 ---
 
-<p align="center">✨ Always open to learning, collaboration & innovation ✨</p>
+<p align="center">✨ Always open to learning, building & collaborating on impactful tech ✨</p>
