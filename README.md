@@ -9,7 +9,7 @@
 
 ### 💡 About Me
 
-- 🎓 MCA Student at GGSIPU (9.2 CGPA)
+- 🎓 MCA Student at GGSIPU (9.2 CGPA)  
 - 💼 Ex-Amazon ML Data Associate (2024)  
 - 🤝 Open to collaborations, hackathons, and internships  
 - 🧠 Currently exploring Power BI, Prompt Engineering & MLOps  
@@ -21,16 +21,16 @@
 ### 🚀 Featured Projects
 
 - 🧑‍🌾 **[FarmIQ – Smart Farming Assistant](#)**  
-  AI-powered system for crop recommendation, fertilizer guidance, and disease detection using Flask, ML, WeatherAPI, and CNNs.
+  Crop prediction, fertilizer suggestion, and disease detection using Flask, ML, WeatherAPI, and CNNs.
 
 - 🎓 **[Student Performance Analyzer](#)**  
-  Complete ML pipeline with SQL, MLflow, Flask. Predicts student grades using modular SDLC architecture and deployed REST APIs.
+  ML pipeline with SQL, MLflow & Flask. Modular, production-ready API.
 
-- 💬 **[Sentiment Analysis for E-commerce](#)**  
-  TF-IDF + SVM/Logistic Regression pipeline with 90%+ accuracy using NLP, lemmatization, and feature engineering.
+- 💬 **[Sentiment Analysis](#)**  
+  TF-IDF + SVM/NB pipeline using NLP with 90%+ accuracy.
 
 - 🚦 **[Traffic Sign Detection](#)**  
-  Real-time CNN-based image classifier using TensorFlow, PyTorch, and OpenCV. Applied image augmentation and deployment-ready.
+  Real-time CNN classifier using TensorFlow, PyTorch, and OpenCV.
 
 ---
 
@@ -38,19 +38,19 @@
 
 - 🧠 Career Essentials in Data Analysis – Microsoft & LinkedIn  
 - 🐍 Programming with Python – OpenEDG Python Institute  
-- 📊 The Complete SQL Bootcamp – Udemy  
-- 📈 Fundamentals of Analytics on AWS (Part 1 & 2)  
-- 🔍 Essentials of Prompt Engineering – AWS  
-- 🤖 Machine Learning & AI Fundamentals – AWS  
+- 📊 SQL Bootcamp – Udemy  
+- 📈 Analytics on AWS (Part 1 & 2)  
+- 🔍 Prompt Engineering – AWS  
+- 🤖 ML & AI Fundamentals – AWS  
 - 🧮 SQL Certificate – HackerRank  
-- 📉 Master Microsoft Excel – LinkedIn Learning
+- 📉 Excel – LinkedIn Learning
 
 ---
 
-### 🧪 Job Simulations (Forage Virtual Internships)
+### 🧪 Forage Job Simulations
 
 - 📊 Deloitte Australia – Data Analytics  
-- 📈 Accenture North America – Data Analytics & Visualization  
+- 📈 Accenture – Data Analytics & Visualization  
 - 📉 Tata – Business Data Visualization  
 - 📦 Quantium – Retail Data Analytics
 
@@ -58,7 +58,7 @@
 
 ### 🛠️ Tools & Technologies
 
-#### 🧠 Programming, ML & AI
+#### 🧠 ML & Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -69,12 +69,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-#### 📈 Data Visualization
+#### 📊 Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-4B8BBE?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C55A5?style=flat&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-#### 🖥️ Backend & Deployment
+#### 🌐 Backend & Deployment
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -85,10 +85,18 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-#### 🛠️ Other Tools
+#### 🔧 Others
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-009688?style=flat&logo=dataiku&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+### 🏙️ GitHub Skyline (3D Contribution City)
+
+<p align="center">
+  <img src="https://github.com/vannu07/vannu07/blob/main/skyline.gif?raw=true" width="700" alt="GitHub Skyline" />
+</p>
 
 ---
 
@@ -100,10 +108,28 @@
 
 ---
 
-### 🏅 Leadership & Extras
+### 💬 Dev Quote of the Day
 
-- 🧑‍💼 **Cultural & Engagement Ambassador @ Amazon** – Drove team-building activities, events & cross-department collaboration.  
-- 🏏 **Cricket Team Captain @ BCIIT** – Leading on-field strategy and team coordination in inter-college leagues.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+### 🎧 Now Playing on Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
+</p>
+
+> 🔧 Replace `YOUR_SPOTIFY_USER_ID` with your actual Spotify ID and set up the [Spotify GitHub App](https://github.com/kittinan/spotify-profile) if not done.
+
+---
+
+### 🏅 Achievements & Leadership
+
+- 🧑‍💼 Cultural & Engagement Ambassador @ Amazon  
+- 🏏 Cricket Team Captain @ BCIIT
 
 ---
 
