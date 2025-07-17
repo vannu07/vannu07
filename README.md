@@ -353,10 +353,10 @@ Every dataset tells a story - my job is to be the translator."
 <a href="https://kaggle.com/vannu07" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
-
+---
 ### 📧 **Let's Build Something Amazing Together!**
 
-
+---
 🤝 Open for:
 ├── 💼 Full-time Data Science Opportunities
 ├── 🚀 Exciting ML/AI Project Collaborations  
