@@ -358,12 +358,12 @@ Every dataset tells a story - my job is to be the translator."
 
 
 🤝 Open for:
-💼 Full-time Data Science Opportunities
-🚀 Exciting ML/AI Project Collaborations  
-🏆 Hackathons & Competitive Programming
-📚 Research & Publication Partnerships
-🎯 Mentorship & Knowledge Sharing
-💡 Innovative Startup Ideas
+├── 💼 Full-time Data Science Opportunities
+├── 🚀 Exciting ML/AI Project Collaborations  
+├── 🏆 Hackathons & Competitive Programming
+├── 📚 Research & Publication Partnerships
+├── 🎯 Mentorship & Knowledge Sharing
+├── 💡 Innovative Startup Ideas
 
 ---
 
