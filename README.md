@@ -367,11 +367,11 @@ Every dataset tells a story - my job is to be the translator."
 ```
 
 ### 🎉 **Fun Collaboration Ideas**
-🏏 **Sports Analytics**: Cricket match prediction models
-🌱 **AgriTech**: Smart farming solutions using IoT + ML
-🏥 **HealthTech**: Medical diagnosis assistance systems
-🌍 **Social Impact**: AI for education and sustainability
-📈 **FinTech**: Algorithmic trading and risk assessment
+- 🏏 **Sports Analytics**: Cricket match prediction models
+- 🌱 **AgriTech**: Smart farming solutions using IoT + ML
+- 🏥 **HealthTech**: Medical diagnosis assistance systems
+- 🌍 **Social Impact**: AI for education and sustainability
+- 📈 **FinTech**: Algorithmic trading and risk assessment
 
 </div>
 
