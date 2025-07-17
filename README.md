@@ -356,7 +356,8 @@ Every dataset tells a story - my job is to be the translator."
 ---
 ### 📧 **Let's Build Something Amazing Together!**
 
----
+```
+
 🤝 Open for:
 ├── 💼 Full-time Data Science Opportunities
 ├── 🚀 Exciting ML/AI Project Collaborations  
@@ -365,7 +366,8 @@ Every dataset tells a story - my job is to be the translator."
 ├── 🎯 Mentorship & Knowledge Sharing
 ├── 💡 Innovative Startup Ideas
 
----
+```
+
 
 ### 🎉 **Fun Collaboration Ideas**
 - 🏏 **Sports Analytics**: Cricket match prediction models
