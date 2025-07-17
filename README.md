@@ -270,30 +270,6 @@ class VarnitKumar:
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 **Performance Dashboard**
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vannu07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vannu07&theme=tokyonight&hide_border=true" />
-
-### 💻 **Coding Activity**
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannu07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" />
-
-### 🏆 **GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=vannu07&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-### 📊 **Contribution Graph**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vannu07&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
 
 ---
 
