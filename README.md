@@ -334,7 +334,7 @@ Every dataset tells a story - my job is to be the translator."
 
 ## 🤝 Let's Connect & Collaborate!
 
-<div align="center">
+<div >
 
 ### 🌐 **Find Me Across The Internet**
 
@@ -353,7 +353,8 @@ Every dataset tells a story - my job is to be the translator."
 <a href="https://kaggle.com/vannu07" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
----
+
+
 ### 📧 **Let's Build Something Amazing Together!**
 
 ```
@@ -367,7 +368,10 @@ Every dataset tells a story - my job is to be the translator."
 ├── 💡 Innovative Startup Ideas
 
 ```
+</div>
+--- 
 
+<div align="center">
 
 ### 🎉 **Fun Collaboration Ideas**
 - 🏏 **Sports Analytics**: Cricket match prediction models
