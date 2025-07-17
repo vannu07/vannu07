@@ -334,7 +334,7 @@ Every dataset tells a story - my job is to be the translator."
 
 ## 🤝 Let's Connect & Collaborate!
 
-<div >
+<div align="center">
 
 ### 🌐 **Find Me Across The Internet**
 
@@ -354,6 +354,7 @@ Every dataset tells a story - my job is to be the translator."
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
+---
 
 ### 📧 **Let's Build Something Amazing Together!**
 
