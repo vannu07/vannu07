@@ -6,7 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Varnit+Kumar!;Data+Scientist+%7C+ML+Engineer;Ex-Amazon+%7C+MCA+%40+GGSIPU;Turning+Data+into+Decisions;Always+Building%2C+Always+Learning!" alt="Typing SVG" />
 
-<br>
+[![Profile Views](https://komarev.com/ghpvc/?username=vannu07&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vannu07)
+[![GitHub followers](https://img.shields.io/github/followers/vannu07?color=00D9FF&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/vannu07?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/vannu07?color=00D9FF&style=for-the-badge&logo=github&label=STARS)](https://github.com/vannu07?tab=repositories)
 
 ```
 ╔═════════════════════════════════════════════════════════════════════════════════╗
@@ -14,13 +16,20 @@
 ╚═════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=vannu07&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vannu07)
-[![GitHub followers](https://img.shields.io/github/followers/vannu07?color=00D9FF&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/vannu07?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/vannu07?color=00D9FF&style=for-the-badge&logo=github&label=STARS)](https://github.com/vannu07?tab=repositories)
-
 </div>
+
+---
+
+## 📑 Table of Contents
+- [About Me](#about-me)
+- [Featured Projects](#featured-projects)
+- [Certifications](#certifications)
+- [Professional Experience](#professional-experience)
+- [Tech Arsenal](#tech-arsenal)
+- [Featured Repositories](#featured-repositories)
+- [Goals & Vision](#goals--vision)
+- [Inspirational Corner](#inspirational-corner)
+- [Let's Connect & Collaborate](#lets-connect--collaborate)
 
 ---
 
@@ -50,7 +59,7 @@ class VarnitKumar:
         return "Turning complex data into simple insights! 📈"
 ```
 
-### 🎯 **Quick Facts**
+### 🎯 Quick Facts
 - 🎓 **Academic Excellence**: MCA Student with 9.2 CGPA at GGSIPU
 - 💼 **Industry Experience**: ML Data Associate at Amazon (2024)
 - 🏆 **Leadership**: Cricket Team Captain & Cultural Ambassador
@@ -64,7 +73,7 @@ class VarnitKumar:
 
 <div align="center">
 
-### 🌟 **Project Showcase**
+### 🌟 Project Showcase
 
 </div>
 
@@ -72,7 +81,7 @@ class VarnitKumar:
 <tr>
 <td width="50%">
 
-### 🧑‍🌾 **FarmIQ – Smart Farming Assistant**
+#### 🧑‍🌾 FarmIQ – Smart Farming Assistant
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vannu07/FarmIQ)
 
 ```
@@ -90,7 +99,7 @@ class VarnitKumar:
 </td>
 <td width="50%">
 
-### 🎓 **Student Performance Analyzer**
+#### 🎓 Student Performance Analyzer
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vannu07/Student-Performance)
 
 ```
@@ -110,7 +119,7 @@ class VarnitKumar:
 <tr>
 <td width="50%">
 
-### 💬 **Advanced Sentiment Analysis**
+#### 💬 Advanced Sentiment Analysis
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vannu07/Sentiment-Analysis)
 
 ```
@@ -128,7 +137,7 @@ class VarnitKumar:
 </td>
 <td width="50%">
 
-### 🚦 **Real-time Traffic Sign Detection**
+#### 🚦 Real-time Traffic Sign Detection
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vannu07/Traffic-Sign-Detection)
 
 ```
@@ -149,32 +158,26 @@ class VarnitKumar:
 
 ---
 
-## 🎓 Certifications & Learning Journey
-
-<div align="center">
-
-### 📜 **Professional Certifications**
-
-</div>
+## 🎓 Certifications
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🏢 **Industry Certifications**
-- 🧠 **Career Essentials in Data Analysis** - Microsoft & LinkedIn
-- 📊 **SQL Bootcamp Certification** - Udemy  
-- 🧮 **SQL Certificate** - HackerRank
-- 📉 **Advanced Excel** - LinkedIn Learning
+#### 🏢 Industry Certifications
+- 🧠 Career Essentials in Data Analysis (Microsoft & LinkedIn)
+- 📊 SQL Bootcamp Certification (Udemy)  
+- 🧮 SQL Certificate (HackerRank)
+- 📉 Advanced Excel (LinkedIn Learning)
 
 </td>
 <td width="50%">
 
-#### ☁️ **Cloud & AI Certifications**
-- 📈 **Analytics on AWS (Part 1 & 2)** - Amazon
-- 🔍 **Prompt Engineering** - AWS
-- 🤖 **ML & AI Fundamentals** - AWS
-- 🐍 **Programming with Python** - OpenEDG Python Institute
+#### ☁️ Cloud & AI Certifications
+- 📈 Analytics on AWS (Part 1 & 2) (Amazon)
+- 🔍 Prompt Engineering (AWS)
+- 🤖 ML & AI Fundamentals (AWS)
+- 🐍 Programming with Python (OpenEDG Python Institute)
 
 </td>
 </tr>
@@ -186,7 +189,7 @@ class VarnitKumar:
 
 <div align="center">
 
-### 🌟 **Forage Job Simulations**
+### 🌟 Forage Job Simulations
 
 </div>
 
@@ -200,11 +203,11 @@ class VarnitKumar:
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-### 🏆 **Leadership & Achievements**
-- 🧑‍💼 **Cultural & Engagement Ambassador** @ Amazon (2024)
-- 🏏 **Cricket Team Captain** @ BCIIT College
-- 🎯 **9.2 CGPA** - Academic Excellence in MCA Program
-- 🤝 **Community Builder** - Active in tech communities
+### 🏆 Leadership & Achievements
+- 🧑‍💼 Cultural & Engagement Ambassador @ Amazon (2024)
+- 🏏 Cricket Team Captain @ BCIIT College
+- 🎯 9.2 CGPA - Academic Excellence in MCA Program
+- 🤝 Community Builder - Active in tech communities
 
 ---
 
@@ -212,11 +215,11 @@ class VarnitKumar:
 
 <div align="center">
 
-### 💻 **Programming & Development**
+### 💻 Programming & Development
 
 </div>
 
-#### 🧠 **Machine Learning & Data Science**
+#### 🧠 Machine Learning & Data Science
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -228,7 +231,7 @@ class VarnitKumar:
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-#### 📊 **Data Visualization & BI**
+#### 📊 Data Visualization & BI
 <p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -237,7 +240,7 @@ class VarnitKumar:
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-#### 🗄️ **Databases & Storage**
+#### 🗄️ Databases & Storage
 <p>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -245,7 +248,7 @@ class VarnitKumar:
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-#### 🌐 **Web Development & APIs**
+#### 🌐 Web Development & APIs
 <p>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -255,7 +258,7 @@ class VarnitKumar:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-#### ☁️ **Cloud & DevOps**
+#### ☁️ Cloud & DevOps
 <p>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -263,7 +266,7 @@ class VarnitKumar:
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
 </p>
 
-#### 🔧 **Tools & Others**
+#### 🔧 Tools & Others
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -271,7 +274,6 @@ class VarnitKumar:
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
-
 
 ---
 
@@ -290,11 +292,11 @@ class VarnitKumar:
 
 ---
 
-## 🎯 Current Goals & Future Vision
+## 🎯 Goals & Vision
 
 <div align="center">
 
-### 🚀 **2024-2025 Roadmap**
+### 🚀 2024-2025 Roadmap
 
 </div>
 
@@ -322,7 +324,7 @@ class VarnitKumar:
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-### 🎭 **My Data Science Philosophy**
+### 🎭 My Data Science Philosophy
 
 ```
 "Data is the new oil, but insights are the refined fuel that powers decisions.
@@ -338,7 +340,7 @@ Every dataset tells a story - my job is to be the translator."
 
 <div align="center">
 
-### 🌐 **Find Me Across The Internet**
+### 🌐 Find Me Across The Internet
 
 <a href="https://www.linkedin.com/in/varnit-kumar-0883bb251" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -358,10 +360,9 @@ Every dataset tells a story - my job is to be the translator."
 
 ---
 
-### 📧 **Let's Build Something Amazing Together!**
+### 📧 Let's Build Something Amazing Together!
 
 ```
-
 🤝 Open for:
 ├── 💼 Full-time Data Science Opportunities
 ├── 🚀 Exciting ML/AI Project Collaborations  
@@ -369,19 +370,14 @@ Every dataset tells a story - my job is to be the translator."
 ├── 📚 Research & Publication Partnerships
 ├── 🎯 Mentorship & Knowledge Sharing
 ├── 💡 Innovative Startup Ideas
-
 ```
-</div>
---- 
 
-<div align="center">
-
-### 🎉 **Fun Collaboration Ideas**
-- 🏏 **Sports Analytics**: Cricket match prediction models
-- 🌱 **AgriTech**: Smart farming solutions using IoT + ML
-- 🏥 **HealthTech**: Medical diagnosis assistance systems
-- 🌍 **Social Impact**: AI for education and sustainability
-- 📈 **FinTech**: Algorithmic trading and risk assessment
+### 🎉 Fun Collaboration Ideas
+- 🏏 Sports Analytics: Cricket match prediction models
+- 🌱 AgriTech: Smart farming solutions using IoT + ML
+- 🏥 HealthTech: Medical diagnosis assistance systems
+- 🌍 Social Impact: AI for education and sustainability
+- 📈 FinTech: Algorithmic trading and risk assessment
 
 </div>
 
