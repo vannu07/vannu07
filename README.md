@@ -2,13 +2,15 @@
 
 # 👋 Hi, I'm Varnit Kumar
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="3D Coding Animation" width="400"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="3D Coding Animation" width="320"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Turning+Data+into+Decisions;Always+Building%2C+Always+Learning!" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vannu07&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vannu07)
 [![GitHub followers](https://img.shields.io/github/followers/vannu07?color=00D9FF&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/vannu07?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/vannu07?color=00D9FF&style=for-the-badge&logo=github&label=STARS)](https://github.com/vannu07?tab=repositories)
+
+</div>
 
 ---
 
@@ -28,7 +30,7 @@
 
 ## 🚀 About Me
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="3D Data Animation" align="right" width="300"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="3D Data Animation" align="right" width="220"/>
 
 ```python
 class VarnitKumar:
@@ -62,8 +64,6 @@ class VarnitKumar:
 
 ## 🌟 Featured Projects
 
-<img src="https://media.giphy.com/media/1hAXONQeS1p3W/giphy.gif" alt="3D Project Animation" align="right" width="300"/>
-
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **FarmIQ – Smart Farming Assistant** | Crop prediction, fertilizer recommendation, disease detection, weather integration. | Python, Flask, TensorFlow, OpenCV, SQLite | [Repo](https://github.com/vannu07/FarmIQ) |
@@ -77,8 +77,6 @@ class VarnitKumar:
 
 ## 📜 Certifications
 
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="3D Certificate Animation" align="right" width="250"/>
-
 - **Career Essentials in Data Analysis** (Microsoft & LinkedIn)
 - **SQL Bootcamp Certification** (Udemy)
 - **Analytics on AWS** (Amazon)
@@ -91,8 +89,6 @@ class VarnitKumar:
 
 ## 💼 Professional Experience
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="3D Work Animation" align="right" width="250"/>
-
 - **ML Data Associate** @ Amazon (2024)
 - **Forage Job Simulations:** Deloitte, Accenture, Tata Group, Quantium
 - **Leadership:** Cultural & Engagement Ambassador, Cricket Team Captain
@@ -101,7 +97,7 @@ class VarnitKumar:
 
 ## 🛠️ Tech Stack
 
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="3D Tech Stack Animation" align="right" width="300"/>
+<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="3D Tech Stack Animation" align="right" width="220"/>
 
 **Languages:** Python, R, SQL, JavaScript  
 **ML & Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, OpenCV  
@@ -118,8 +114,6 @@ class VarnitKumar:
 ---
 
 ## 🎯 Goals & Vision
-
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="3D Vision Animation" align="right" width="250"/>
 
 **2024-2025 Roadmap:**
 - 🏆 Complete Advanced MLOps Certification
@@ -139,8 +133,6 @@ class VarnitKumar:
 
 ## 🗣️ Testimonials
 
-<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="3D Testimonials Animation" align="right" width="200"/>
-
 > _"Varnit is a highly motivated and skilled data scientist. His work on FarmIQ was instrumental in delivering actionable insights to farmers."_  
 > — [Colleague/Professor/Manager Name, Title, Company]  
 > _(Add more if available)_
@@ -148,8 +140,6 @@ class VarnitKumar:
 ---
 
 ## 🤝 Let's Connect
-
-<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="3D Connect Animation" align="right" width="200"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varnit-kumar-0883bb251)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vannu07)
@@ -161,8 +151,6 @@ class VarnitKumar:
 
 ## 🎉 Fun Collaboration Ideas
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="3D Collaboration Animation" align="right" width="200"/>
-
 - 🏏 Sports Analytics: Cricket match prediction models
 - 🌱 AgriTech: Smart farming solutions using IoT + ML
 - 🏥 HealthTech: Medical diagnosis assistance systems
@@ -173,7 +161,7 @@ class VarnitKumar:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="3D Thank You Animation" width="400"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="3D Thank You Animation" width="220"/>
 
 > _"Data is the new oil, but insights are the refined fuel that powers decisions. Every dataset tells a story - my job is to be the translator."_  
 > — Varnit Kumar
