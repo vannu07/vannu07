@@ -1,10 +1,20 @@
 <div align="center">
 
-# 👋 Hi, I'm Varnit Kumar
+# 👋 Welcome to My Digital Universe!
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="3D Coding Animation" width="320"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Techy 3D Coding Animation" width="350"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Turning+Data+into+Decisions;Always+Building%2C+Always+Learning!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Varnit+Kumar!;Data+Scientist+%7C+ML+Engineer;Ex-Amazon+%7C+MCA+%40+GGSIPU;Turning+Data+into+Decisions;Always+Building%2C+Always+Learning!" alt="Typing SVG" />
+
+<br>
+
+```
+╔═════════════════════════════════════════════════════════════════════════════════╗
+║  🎯 Aspiring Data Analyst | 🤖 ML Enthusiast | 💼 Ex-Amazon | 🎓 MCA Student  ║
+╚═════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vannu07&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vannu07)
 [![GitHub followers](https://img.shields.io/github/followers/vannu07?color=00D9FF&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/vannu07?tab=followers)
@@ -14,23 +24,9 @@
 
 ---
 
-## 📑 Table of Contents
-
-- [About Me](#about-me)
-- [Featured Projects](#featured-projects)
-- [Certifications](#certifications)
-- [Professional Experience](#professional-experience)
-- [Tech Stack](#tech-stack)
-- [Goals & Vision](#goals--vision)
-- [Testimonials](#testimonials)
-- [Let's Connect](#lets-connect)
-- [Fun Collaboration Ideas](#fun-collaboration-ideas)
-
----
-
 ## 🚀 About Me
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="3D Data Animation" align="right" width="220"/>
+<img align="right" alt="Techy Coding" width="350" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 ```python
 class VarnitKumar:
@@ -54,118 +50,357 @@ class VarnitKumar:
         return "Turning complex data into simple insights! 📈"
 ```
 
-- 🎓 **MCA @ GGSIPU** (9.2 CGPA)
-- 💼 **Ex-Amazon ML Data Associate**
-- 🏆 **Cricket Team Captain & Cultural Ambassador**
-- 🌱 **Learning:** MLOps, Power BI, Prompt Engineering
-- ⚡ **Fun Fact:** I can predict cricket match outcomes using ML!
+### 🎯 **Quick Facts**
+- 🎓 **Academic Excellence**: MCA Student with 9.2 CGPA at GGSIPU
+- 💼 **Industry Experience**: ML Data Associate at Amazon (2024)
+- 🏆 **Leadership**: Cricket Team Captain & Cultural Ambassador
+- 🤝 **Collaboration**: Open to hackathons, internships, and projects
+- 🌱 **Currently Learning**: MLOps, Advanced Power BI, Prompt Engineering
+- ⚡ **Fun Fact**: I can predict cricket match outcomes using ML! 🏏
 
 ---
 
-## 🌟 Featured Projects
+## 🏆 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **FarmIQ – Smart Farming Assistant** | Crop prediction, fertilizer recommendation, disease detection, weather integration. | Python, Flask, TensorFlow, OpenCV, SQLite | [Repo](https://github.com/vannu07/FarmIQ) |
-| **Student Performance Analyzer** | Predicts student performance, tracks ML models, SQL integration, dashboards. | Python, MLflow, SQL, Flask, Scikit-learn, Pandas | [Repo](https://github.com/vannu07/Student-Performance) |
-| **Advanced Sentiment Analysis** | Multi-model sentiment analysis, TF-IDF, web interface, word cloud. | Python, NLP, Scikit-learn, Flask, Streamlit, Plotly | [Repo](https://github.com/vannu07/Sentiment-Analysis) |
-| **Real-time Traffic Sign Detection** | Real-time video processing, CNNs, OpenCV, high-speed detection. | Python, TensorFlow, PyTorch, OpenCV, Computer Vision | [Repo](https://github.com/vannu07/Traffic-Sign-Detection) |
+<div align="center">
 
-> _See more on my [GitHub profile](https://github.com/vannu07?tab=repositories)_
+### 🌟 **Project Showcase**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧑‍🌾 **FarmIQ – Smart Farming Assistant**
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vannu07/FarmIQ)
+
+```
+🎯 Features:
+├── 🌾 Crop Prediction ML Models
+├── 💊 Fertilizer Recommendation System  
+├── 🦠 Disease Detection using CNNs
+├── 🌤️ Weather API Integration
+└── 🌐 Flask Web Application
+
+📊 Tech Stack: Python, Flask, TensorFlow, 
+               OpenCV, WeatherAPI, SQLite
+```
+
+</td>
+<td width="50%">
+
+### 🎓 **Student Performance Analyzer**
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vannu07/Student-Performance)
+
+```
+🎯 Features:
+├── 📈 Performance Prediction Pipeline
+├── 🔄 MLflow Model Tracking
+├── 🗄️ SQL Database Integration
+├── 🌐 Production-Ready Flask API
+└── 📊 Interactive Dashboards
+
+📊 Tech Stack: Python, MLflow, SQL, 
+               Flask, Scikit-learn, Pandas
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 **Advanced Sentiment Analysis**
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vannu07/Sentiment-Analysis)
+
+```
+🎯 Features:
+├── 🧠 Multiple ML Models (SVM, NB, RF)
+├── 📝 TF-IDF Feature Engineering
+├── 📊 90%+ Accuracy Achievement
+├── 🎨 Interactive Web Interface
+└── ☁️ Word Cloud Visualization
+
+📊 Tech Stack: Python, NLP, Scikit-learn,
+               Flask, Streamlit, Plotly
+```
+
+</td>
+<td width="50%">
+
+### 🚦 **Real-time Traffic Sign Detection**
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vannu07/Traffic-Sign-Detection)
+
+```
+🎯 Features:
+├── 🎥 Real-time Video Processing
+├── 🧠 CNN Deep Learning Models
+├── 📱 OpenCV Integration
+├── ⚡ High-Speed Detection
+└── 🎯 95%+ Classification Accuracy
+
+📊 Tech Stack: Python, TensorFlow, PyTorch,
+               OpenCV, CNN, Computer Vision
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📜 Certifications
+## 🎓 Certifications & Learning Journey
 
-- **Career Essentials in Data Analysis** (Microsoft & LinkedIn)
-- **SQL Bootcamp Certification** (Udemy)
-- **Analytics on AWS** (Amazon)
-- **Prompt Engineering** (AWS)
-- **ML & AI Fundamentals** (AWS)
-- **Programming with Python** (OpenEDG Python Institute)
-- ...and more!
+<div align="center">
+
+### 📜 **Professional Certifications**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏢 **Industry Certifications**
+- 🧠 **Career Essentials in Data Analysis** - Microsoft & LinkedIn
+- 📊 **SQL Bootcamp Certification** - Udemy  
+- 🧮 **SQL Certificate** - HackerRank
+- 📉 **Advanced Excel** - LinkedIn Learning
+
+</td>
+<td width="50%">
+
+#### ☁️ **Cloud & AI Certifications**
+- 📈 **Analytics on AWS (Part 1 & 2)** - Amazon
+- 🔍 **Prompt Engineering** - AWS
+- 🤖 **ML & AI Fundamentals** - AWS
+- 🐍 **Programming with Python** - OpenEDG Python Institute
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Professional Experience
 
-- **ML Data Associate** @ Amazon (2024)
-- **Forage Job Simulations:** Deloitte, Accenture, Tata Group, Quantium
-- **Leadership:** Cultural & Engagement Ambassador, Cricket Team Captain
+<div align="center">
+
+### 🌟 **Forage Job Simulations**
+
+</div>
+
+```
+🏢 Industry Experience Simulations:
+┌──────────────────────────────────────────────────────────────────┐
+│  📊 Deloitte Australia      │  Data Analytics Consulting         │
+│  📈 Accenture North America │  Data Analytics & Visualization    │  
+│  📉 Tata Group              │  Business Data Visualization       │
+│  📦 Quantium                │  Retail Data Analytics             │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+### 🏆 **Leadership & Achievements**
+- 🧑‍💼 **Cultural & Engagement Ambassador** @ Amazon (2024)
+- 🏏 **Cricket Team Captain** @ BCIIT College
+- 🎯 **9.2 CGPA** - Academic Excellence in MCA Program
+- 🤝 **Community Builder** - Active in tech communities
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="3D Tech Stack Animation" align="right" width="220"/>
+<div align="center">
 
-**Languages:** Python, R, SQL, JavaScript  
-**ML & Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, OpenCV  
-**Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly  
-**Databases:** PostgreSQL, MongoDB, MySQL, SQLite  
-**Web & APIs:** Flask, FastAPI, Streamlit, HTML5, CSS3, JavaScript  
-**Cloud & DevOps:** AWS, Docker, GitHub Actions, MLflow  
-**Tools:** Git, Jupyter, VS Code, Postman, Excel
+### 💻 **Programming & Development**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,js,flask,fastapi,streamlit,aws,docker,git,github,html,css,tableau,pandas,numpy,scikitlearn,tensorflow,pytorch,opencv,mongodb,mysql,sqlite,postman,vscode,jupyter,excel" />
+</div>
+
+#### 🧠 **Machine Learning & Data Science**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
+#### 📊 **Data Visualization & BI**
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+#### 🗄️ **Databases & Storage**
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+#### 🌐 **Web Development & APIs**
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+#### ☁️ **Cloud & DevOps**
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
+</p>
+
+#### 🔧 **Tools & Others**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+
 ---
 
-## 🎯 Goals & Vision
+## 🌟 Featured Repositories
 
-**2024-2025 Roadmap:**
-- 🏆 Complete Advanced MLOps Certification
-- 🤖 Build 3 Production-Ready ML Applications  
-- 📊 Master Advanced Power BI & Tableau
-- ☁️ Deploy ML Models on AWS/Azure
-- 🤝 Contribute to 5 Open Source Projects
+<div align="center">
 
-**Long-term:**
-- 💼 Secure Data Scientist Role at Top Tech Company
-- 🎓 Pursue Specialized AI/ML Certifications
-- 📚 Publish Research Papers in ML/AI
-- 🏢 Lead Data Science Team
-- 🌍 Build AI Solutions for Social Impact
+<a href="https://github.com/vannu07/Android-Malware-Detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vannu07&repo=Android-Malware-Detection&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/vannu07/FarmIQ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vannu07&repo=FarmIQ&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
-## 🗣️ Testimonials
+## 🎯 Current Goals & Future Vision
 
-> _"Varnit is a highly motivated and skilled data scientist. His work on FarmIQ was instrumental in delivering actionable insights to farmers."_  
-> — [Colleague/Professor/Manager Name, Title, Company]  
-> _(Add more if available)_
+<div align="center">
+
+### 🚀 **2024-2025 Roadmap**
+
+</div>
+
+```
+🎯 Short-term Goals (Next 6 months):
+├── 🏆 Complete Advanced MLOps Certification
+├── 🤖 Build 3 Production-Ready ML Applications  
+├── 📊 Master Advanced Power BI & Tableau
+├── ☁️ Deploy ML Models on AWS/Azure
+└── 🤝 Contribute to 5 Open Source Projects
+
+🌟 Long-term Vision (1-2 years):
+├── 💼 Secure Data Scientist Role at Top Tech Company
+├── 🎓 Pursue Specialized AI/ML Certifications
+├── 📚 Publish Research Papers in ML/AI
+├── 🏢 Lead Data Science Team
+└── 🌍 Build AI Solutions for Social Impact
+```
 
 ---
 
-## 🤝 Let's Connect
+## 💬 Inspirational Corner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varnit-kumar-0883bb251)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vannu07)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar.varnit.16@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vannu07)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/vannu07)
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+### 🎭 **My Data Science Philosophy**
+
+```
+"Data is the new oil, but insights are the refined fuel that powers decisions.
+Every dataset tells a story - my job is to be the translator."
+                                                    - Varnit Kumar
+```
+
+</div>
 
 ---
 
-## 🎉 Fun Collaboration Ideas
+## 🤝 Let's Connect & Collaborate!
 
-- 🏏 Sports Analytics: Cricket match prediction models
-- 🌱 AgriTech: Smart farming solutions using IoT + ML
-- 🏥 HealthTech: Medical diagnosis assistance systems
-- 🌍 Social Impact: AI for education and sustainability
-- 📈 FinTech: Algorithmic trading and risk assessment
+<div align="center">
+
+### 🌐 **Find Me Across The Internet**
+
+<a href="https://www.linkedin.com/in/varnit-kumar-0883bb251" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/vannu07" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:kumar.varnit.16@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/vannu07" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://kaggle.com/vannu07" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+---
+
+### 📧 **Let's Build Something Amazing Together!**
+
+```
+
+🤝 Open for:
+├── 💼 Full-time Data Science Opportunities
+├── 🚀 Exciting ML/AI Project Collaborations  
+├── 🏆 Hackathons & Competitive Programming
+├── 📚 Research & Publication Partnerships
+├── 🎯 Mentorship & Knowledge Sharing
+├── 💡 Innovative Startup Ideas
+
+```
+</div>
+--- 
+
+<div align="center">
+
+### 🎉 **Fun Collaboration Ideas**
+- 🏏 **Sports Analytics**: Cricket match prediction models
+- 🌱 **AgriTech**: Smart farming solutions using IoT + ML
+- 🏥 **HealthTech**: Medical diagnosis assistance systems
+- 🌍 **Social Impact**: AI for education and sustainability
+- 📈 **FinTech**: Algorithmic trading and risk assessment
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="3D Thank You Animation" width="220"/>
-
-> _"Data is the new oil, but insights are the refined fuel that powers decisions. Every dataset tells a story - my job is to be the translator."_  
-> — Varnit Kumar
+## 🌟 Thank You for Visiting!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Let's+turn+data+into+magic!;Always+happy+to+connect!;Keep+coding+and+stay+curious!" alt="Typing SVG" />
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║⭐ If you find my work interesting, please star my repositories!             ║
+║🤝 Always open to learning, building & collaborating on impactful tech       ║
+║💡 "The best way to predict the future is to create it with data!"           ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 
 </div>
