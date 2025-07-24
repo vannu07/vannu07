@@ -4,7 +4,9 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Techy 3D Coding Animation" width="350"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Varnit+Kumar!;Data+Scientist+%7C+ML+Engineer;Ex-Amazon+%7C+MCA+%40+GGSIPU;Turning+Data+into+Decisions;Always+Building%2C+Always+Learning!" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Varnit+Kumar!;Data+Scientist+%7C+ML+Engineer;Ex-Amazon+%7C+MCA+%40+GGSIPU;Turning+Data+into+Decisions;Always+Building%2C+Always+Learning!" alt="Typing SVG" />
+</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vannu07&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vannu07)
 [![GitHub followers](https://img.shields.io/github/followers/vannu07?color=00D9FF&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/vannu07?tab=followers)
@@ -35,7 +37,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Techy Coding" width="350" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```python
 class VarnitKumar:
@@ -66,6 +68,22 @@ class VarnitKumar:
 - 🤝 **Collaboration**: Open to hackathons, internships, and projects
 - 🌱 **Currently Learning**: MLOps, Advanced Power BI, Prompt Engineering
 - ⚡ **Fun Fact**: I can predict cricket match outcomes using ML! 🏏
+
+---
+
+## 🔄 Machine Learning Workflow Pipeline
+
+A typical end-to-end ML pipeline involves several key stages, from raw data to production deployment. Here’s a high-level overview of the process I follow in my projects:
+
+```mermaid
+flowchart LR
+    A[Data Collection] --> B[Data Cleaning]
+    B --> C[Feature Engineering]
+    C --> D[Model Training]
+    D --> E[Model Evaluation]
+    E --> F[Deployment]
+    F --> G[Monitoring & Feedback]
+```
 
 ---
 
