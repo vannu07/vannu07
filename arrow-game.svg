@@ -1,172 +1,279 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="1000" height="400">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500">
   <defs>
-    <!-- Gradients -->
-    <linearGradient id="ArcGradient">
-      <stop offset="0" stop-color="#fff" stop-opacity=".3"/>
-      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    <!-- Enhanced Gradients -->
+    <linearGradient id="ArcGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff88" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#0088ff" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#ff0088" stop-opacity="0"/>
     </linearGradient>
     
-    <linearGradient id="BowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#88ce02"/>
-      <stop offset="100%" stop-color="#66aa00"/>
+    <linearGradient id="BowGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B4513"/>
+      <stop offset="50%" stop-color="#A0522D"/>
+      <stop offset="100%" stop-color="#654321"/>
     </linearGradient>
     
-    <radialGradient id="TargetGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#fff" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    <linearGradient id="StringGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#FFA500"/>
+    </linearGradient>
+    
+    <radialGradient id="TargetGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0.6"/>
+      <stop offset="70%" stop-color="#FF6B35" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#FF6B35" stop-opacity="0"/>
     </radialGradient>
+    
+    <radialGradient id="BackgroundGradient" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </radialGradient>
+    
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <filter id="shadow">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+    </filter>
 
-    <!-- Arrow definition -->
+    <!-- Enhanced Arrow -->
     <g id="arrow">
-      <line x2="60" fill="none" stroke="#888" stroke-width="2"/>
-      <polygon fill="#888" points="64 0 58 2 56 0 58 -2"/>
-      <polygon fill="#88ce02" points="2 -3 -4 -3 -1 0 -4 3 2 3 5 0"/>
+      <defs>
+        <linearGradient id="arrowShaft" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#8B4513"/>
+          <stop offset="100%" stop-color="#A0522D"/>
+        </linearGradient>
+        <linearGradient id="arrowHead" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#C0C0C0"/>
+          <stop offset="100%" stop-color="#808080"/>
+        </linearGradient>
+      </defs>
+      <!-- Arrow shaft -->
+      <line x1="0" y1="0" x2="70" y2="0" stroke="url(#arrowShaft)" stroke-width="3" stroke-linecap="round"/>
+      <!-- Arrow head -->
+      <polygon fill="url(#arrowHead)" points="70,0 60,4 60,2 58,2 58,-2 60,-2 60,-4" filter="url(#shadow)"/>
+      <!-- Arrow fletching -->
+      <polygon fill="#DC143C" points="8,-4 0,-2 0,2 8,4 12,0" opacity="0.9"/>
+      <polygon fill="#8B0000" points="8,-2 4,-1 4,1 8,2 10,0" opacity="0.7"/>
     </g>
     
-    <!-- Particle effect -->
-    <circle id="particle" r="2" fill="#ffcc00" opacity="0.8"/>
+    <!-- Enhanced Particle -->
+    <g id="particle">
+      <circle r="3" fill="#FFD700" opacity="0.9">
+        <animate attributeName="r" values="1;4;1" dur="0.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="1.5" fill="#FFF" opacity="0.8"/>
+    </g>
+    
+    <!-- Star particle -->
+    <g id="star">
+      <path d="M0,-8 L2,-2 L8,0 L2,2 L0,8 L-2,2 L-8,0 L-2,-2 Z" fill="#FFD700" opacity="0.8"/>
+    </g>
   </defs>
 
-  <!-- Background -->
-  <rect width="1000" height="400" fill="#222"/>
+  <!-- Enhanced Background -->
+  <rect width="1200" height="500" fill="url(#BackgroundGradient)"/>
   
-  <!-- Trajectory arc -->
-  <path id="arc" fill="none" stroke="url(#ArcGradient)" stroke-width="4" 
-        d="M100,250c200-300,500-300,750,0" opacity="0">
-    <animate attributeName="opacity" values="0;0.6;0" dur="3s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" 
-                      values="1;1.1;1" dur="3s" repeatCount="indefinite"/>
+  <!-- Background stars -->
+  <g id="bg-stars" fill="#FFF" opacity="0.4">
+    <circle cx="100" cy="80" r="1">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="120" r="1.5">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="60" r="1">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="100" r="1.2">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1000" cy="80" r="1">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Enhanced Trajectory Arc -->
+  <path id="arc" fill="none" stroke="url(#ArcGradient)" stroke-width="6" 
+        d="M150,280 Q400,120 600,160 T1000,280" opacity="0" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;0.9;0" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="4;8;4" dur="4s" repeatCount="indefinite"/>
   </path>
 
-  <!-- Target with glow effect -->
-  <g id="target" transform="translate(900, 250)">
-    <!-- Glow effect -->
-    <circle r="40" fill="url(#TargetGlow)" opacity="0.5">
-      <animate attributeName="r" values="35;45;35" dur="2s" repeatCount="indefinite"/>
+  <!-- Enhanced Target -->
+  <g id="target" transform="translate(1000, 280)">
+    <!-- Outer glow -->
+    <circle r="60" fill="url(#TargetGlow)" opacity="0.4">
+      <animate attributeName="r" values="50;70;50" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite"/>
     </circle>
     
-    <!-- Target rings -->
-    <circle r="30" fill="#FFF" stroke="#ddd" stroke-width="2"/>
-    <circle r="22" fill="#F4531C"/>
-    <circle r="15" fill="#FFF"/>
-    <circle r="8" fill="#F4531C"/>
-    <circle r="3" fill="#FFF"/>
+    <!-- Target rings with better colors -->
+    <circle r="40" fill="#FFF" stroke="#E0E0E0" stroke-width="2" filter="url(#shadow)"/>
+    <circle r="32" fill="#FF4444" opacity="0.9"/>
+    <circle r="24" fill="#FFF"/>
+    <circle r="16" fill="#FF4444" opacity="0.9"/>
+    <circle r="8" fill="#FFF"/>
+    <circle r="4" fill="#FFD700"/>
     
-    <!-- Target pulse animation -->
+    <!-- Target center dot -->
+    <circle r="2" fill="#FF0000"/>
+    
+    <!-- Target pulse -->
     <animateTransform attributeName="transform" type="scale" 
-                      values="1;1.05;1" dur="2s" repeatCount="indefinite"/>
+                      values="1;1.08;1" dur="3s" repeatCount="indefinite"/>
   </g>
 
-  <!-- Bow -->
-  <g id="bow" transform="translate(100, 250)" fill="none" stroke-linecap="round">
+  <!-- Enhanced Bow -->
+  <g id="bow" transform="translate(150, 280)">
+    <!-- Bow shadow -->
+    <g opacity="0.3" transform="translate(3, 3)">
+      <path stroke="#000" stroke-width="6" fill="none" stroke-linecap="round" 
+            d="M-15,70 Q-5,35 0,0 Q-5,-35 -15,-70"/>
+    </g>
+    
     <!-- Bow string -->
-    <polyline fill="none" stroke="#ddd" stroke-width="2" points="-12,-50 -12,0 -12,50">
+    <polyline fill="none" stroke="url(#StringGradient)" stroke-width="3" 
+              points="-15,-70 -15,0 -15,70" filter="url(#glow)">
       <animate attributeName="points" 
-               values="-12,-50 -12,0 -12,50;-25,-50 -25,0 -25,50;-12,-50 -12,0 -12,50" 
-               dur="3s" repeatCount="indefinite"/>
+               values="-15,-70 -15,0 -15,70;-28,-70 -28,0 -28,70;-15,-70 -15,0 -15,70" 
+               dur="4s" repeatCount="indefinite"/>
     </polyline>
     
     <!-- Bow body -->
-    <path fill="none" stroke="url(#BowGradient)" stroke-width="4" stroke-linecap="round" 
-          d="M-12,50 c0-10,12-25,12-50s-12-40,-12-50">
+    <path fill="none" stroke="url(#BowGradient)" stroke-width="8" stroke-linecap="round" 
+          d="M-15,70 Q-5,35 0,0 Q-5,-35 -15,-70" filter="url(#shadow)">
       <animateTransform attributeName="transform" type="scale" 
-                        values="1;1.1;1" dur="3s" repeatCount="indefinite"/>
+                        values="1;1.15;1" dur="4s" repeatCount="indefinite"/>
     </path>
+    
+    <!-- Bow grip -->
+    <rect x="-8" y="-15" width="6" height="30" rx="3" fill="#654321" filter="url(#shadow)"/>
   </g>
 
-  <!-- Arrow on bow (initial position) -->
-  <g id="bow-arrow" transform="translate(100, 250)" opacity="1">
-    <use href="#arrow" transform="scale(-1,1)">
-      <animateTransform attributeName="transform" type="translate" 
-                        values="0,0;-20,0;0,0" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;1;0;0;1" dur="3s" repeatCount="indefinite"/>
-    </use>
+  <!-- Arrow on bow -->
+  <g id="bow-arrow" transform="translate(150, 280)">
+    <g transform="scale(-1,1)">
+      <use href="#arrow" filter="url(#shadow)">
+        <animateTransform attributeName="transform" type="translate" 
+                          values="0,0;-25,0;0,0" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;1;0.3;0;1" dur="4s" repeatCount="indefinite"/>
+      </use>
+    </g>
   </g>
 
-  <!-- Flying arrow -->
+  <!-- Flying arrow with trail -->
   <g id="flying-arrow" opacity="0">
-    <use href="#arrow"/>
-    <animateMotion dur="1.5s" repeatCount="indefinite" begin="2.5s">
+    <!-- Arrow trail -->
+    <path stroke="#FFD700" stroke-width="2" fill="none" opacity="0.6">
+      <animate attributeName="d" values="M0,0 L0,0;M0,0 L-20,0;M0,0 L-40,0" dur="2s" repeatCount="indefinite" begin="3s"/>
+    </path>
+    
+    <use href="#arrow" filter="url(#glow)"/>
+    
+    <animateMotion dur="2s" repeatCount="indefinite" begin="3s" rotate="auto">
       <mpath href="#arc"/>
     </animateMotion>
-    <animateTransform attributeName="transform" type="rotate" 
-                      values="0;-10;-5" dur="1.5s" repeatCount="indefinite" begin="2.5s"/>
-    <animate attributeName="opacity" values="0;1;1;0" dur="3s" repeatCount="indefinite" begin="2.5s"/>
+    <animate attributeName="opacity" values="0;1;1;0.5;0" dur="4s" repeatCount="indefinite" begin="3s"/>
   </g>
 
-  <!-- Hit particles -->
-  <g id="particles" transform="translate(900, 250)">
-    <use href="#particle" transform="translate(-10, -10)">
-      <animate attributeName="opacity" values="0;0;1;0;0" dur="3s" repeatCount="indefinite" begin="3.8s"/>
-      <animateTransform attributeName="transform" type="translate" 
-                        values="-10,-10;-20,-20;-30,-30" dur="0.5s" repeatCount="indefinite" begin="3.8s"/>
-    </use>
-    <use href="#particle" transform="translate(10, -10)">
-      <animate attributeName="opacity" values="0;0;1;0;0" dur="3s" repeatCount="indefinite" begin="3.9s"/>
-      <animateTransform attributeName="transform" type="translate" 
-                        values="10,-10;20,-20;30,-30" dur="0.5s" repeatCount="indefinite" begin="3.9s"/>
-    </use>
-    <use href="#particle" transform="translate(-10, 10)">
-      <animate attributeName="opacity" values="0;0;1;0;0" dur="3s" repeatCount="indefinite" begin="4.0s"/>
-      <animateTransform attributeName="transform" type="translate" 
-                        values="-10,10;-20,20;-30,30" dur="0.5s" repeatCount="indefinite" begin="4.0s"/>
-    </use>
-    <use href="#particle" transform="translate(10, 10)">
-      <animate attributeName="opacity" values="0;0;1;0;0" dur="3s" repeatCount="indefinite" begin="4.1s"/>
-      <animateTransform attributeName="transform" type="translate" 
-                        values="10,10;20,20;30,30" dur="0.5s" repeatCount="indefinite" begin="4.1s"/>
-    </use>
+  <!-- Enhanced Hit Effects -->
+  <g id="hit-effects" transform="translate(1000, 280)">
+    <!-- Explosion particles -->
+    <g id="explosion">
+      <use href="#particle" transform="translate(-15, -15)">
+        <animate attributeName="opacity" values="0;1;0" dur="0.8s" repeatCount="indefinite" begin="4.8s"/>
+        <animateTransform attributeName="transform" type="translate" 
+                          values="-15,-15;-35,-35;-50,-50" dur="0.8s" repeatCount="indefinite" begin="4.8s"/>
+      </use>
+      <use href="#particle" transform="translate(15, -15)">
+        <animate attributeName="opacity" values="0;1;0" dur="0.8s" repeatCount="indefinite" begin="4.9s"/>
+        <animateTransform attributeName="transform" type="translate" 
+                          values="15,-15;35,-35;50,-50" dur="0.8s" repeatCount="indefinite" begin="4.9s"/>
+      </use>
+      <use href="#particle" transform="translate(-15, 15)">
+        <animate attributeName="opacity" values="0;1;0" dur="0.8s" repeatCount="indefinite" begin="5.0s"/>
+        <animateTransform attributeName="transform" type="translate" 
+                          values="-15,15;-35,35;-50,50" dur="0.8s" repeatCount="indefinite" begin="5.0s"/>
+      </use>
+      <use href="#particle" transform="translate(15, 15)">
+        <animate attributeName="opacity" values="0;1;0" dur="0.8s" repeatCount="indefinite" begin="5.1s"/>
+        <animateTransform attributeName="transform" type="translate" 
+                          values="15,15;35,35;50,50" dur="0.8s" repeatCount="indefinite" begin="5.1s"/>
+      </use>
+    </g>
+    
+    <!-- Star burst -->
+    <g id="starburst">
+      <use href="#star" transform="rotate(0)">
+        <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" begin="4.8s"/>
+        <animateTransform attributeName="transform" type="rotate" 
+                          values="0;360" dur="1s" repeatCount="indefinite" begin="4.8s"/>
+      </use>
+      <use href="#star" transform="rotate(45) scale(0.7)">
+        <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" begin="4.9s"/>
+        <animateTransform attributeName="transform" type="rotate" 
+                          values="45;405" dur="1s" repeatCount="indefinite" begin="4.9s"/>
+      </use>
+    </g>
   </g>
 
-  <!-- Success text -->
-  <g id="success-text" transform="translate(500, 150)" opacity="0" fill="#88ce02">
-    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="bold">
-      🎯 BULLSEYE! 🎯
-      <animate attributeName="opacity" values="0;0;1;1;0" dur="3s" repeatCount="indefinite" begin="4s"/>
+  <!-- Enhanced Success Text -->
+  <g id="success-text" transform="translate(600, 180)" opacity="0">
+    <!-- Text shadow -->
+    <text x="2" y="2" text-anchor="middle" font-family="Arial Black, sans-serif" 
+          font-size="56" font-weight="bold" fill="#000" opacity="0.3">
+      🎯 PERFECT SHOT! 🎯
     </text>
+    <!-- Main text -->
+    <text x="0" y="0" text-anchor="middle" font-family="Arial Black, sans-serif" 
+          font-size="56" font-weight="bold" fill="#FFD700" filter="url(#glow)">
+      🎯 PERFECT SHOT! 🎯
+      <animate attributeName="fill" values="#FFD700;#FF6B35;#FFD700" dur="0.5s" repeatCount="indefinite" begin="5s"/>
+    </text>
+    
+    <animate attributeName="opacity" values="0;1;1;0" dur="2s" repeatCount="indefinite" begin="5s"/>
     <animateTransform attributeName="transform" type="scale" 
-                      values="0;1.2;1;1;0" dur="1s" repeatCount="indefinite" begin="4s"/>
+                      values="0;1.3;1;0.8;0" dur="2s" repeatCount="indefinite" begin="5s"/>
   </g>
 
-  <!-- Game title -->
-  <text x="500" y="50" text-anchor="middle" font-family="Arial, sans-serif" 
-        font-size="32" font-weight="bold" fill="#fff" opacity="0.8">
-    🏹 Arrow Shooting Game 🏹
+  <!-- Enhanced Title -->
+  <text x="600" y="60" text-anchor="middle" font-family="Arial Black, sans-serif" 
+        font-size="42" font-weight="bold" fill="#FFD700" filter="url(#glow)">
+    🏹 ARROW MASTER GAME 🏹
+    <animate attributeName="fill" values="#FFD700;#FF6B35;#00ff88;#FFD700" dur="4s" repeatCount="indefinite"/>
   </text>
 
-  <!-- Instruction text -->
-  <text x="500" y="380" text-anchor="middle" font-family="Arial, sans-serif" 
-        font-size="16" fill="#aaa" opacity="0.6">
-    Animated SVG Demo - Click to view the interactive version!
+  <!-- Enhanced Subtitle -->
+  <text x="600" y="460" text-anchor="middle" font-family="Arial, sans-serif" 
+        font-size="20" fill="#B0B0B0" opacity="0.8">
+    ✨ Animated SVG Demo • Click to play the interactive version! ✨
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
   </text>
 
-  <!-- Decorative elements -->
-  <g id="stars" fill="#fff" opacity="0.3">
-    <circle cx="150" cy="80" r="1">
-      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="300" cy="120" r="1.5">
-      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="750" cy="90" r="1">
-      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="850" cy="130" r="1.2">
-      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.2s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <!-- Wind effect lines -->
-  <g id="wind" stroke="#444" stroke-width="1" opacity="0.2">
-    <line x1="200" y1="100" x2="250" y2="105">
-      <animate attributeName="opacity" values="0;0.4;0" dur="3s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" 
-                        values="0,0;50,0;100,0" dur="4s" repeatCount="indefinite"/>
-    </line>
-    <line x1="300" y1="320" x2="350" y2="315">
-      <animate attributeName="opacity" values="0;0.4;0" dur="3s" repeatCount="indefinite" begin="1s"/>
-      <animateTransform attributeName="transform" type="translate" 
-                        values="0,0;50,0;100,0" dur="4s" repeatCount="indefinite" begin="1s"/>
-    </line>
+  <!-- Floating elements -->
+  <g id="floating-elements" opacity="0.6">
+    <!-- Floating arrows -->
+    <g transform="translate(50, 150)">
+      <path d="M0,0 L20,0 M15,-5 L20,0 L15,5" stroke="#FFD700" stroke-width="2" fill="none" opacity="0.4">
+        <animateTransform attributeName="transform" type="translate" 
+                          values="0,0;30,0;60,0" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.6;0" dur="6s" repeatCount="indefinite"/>
+      </animateTransform>
+    </g>
+    
+    <!-- Floating target -->
+    <g transform="translate(1100, 150)">
+      <circle r="8" fill="none" stroke="#FF6B35" stroke-width="2" opacity="0.4">
+        <animateTransform attributeName="transform" type="translate" 
+                          values="0,0;0,-20;0,-40" dur="5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.6;0" dur="5s" repeatCount="indefinite"/>
+      </animateTransform>
+    </g>
   </g>
 </svg>
