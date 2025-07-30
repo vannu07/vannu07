@@ -20,9 +20,7 @@
 
 </div>
 
-<div align="center">
-  <img src="./arrow-game.svg" alt="Arrow Shooting Game" width="800"/>
-</div>
+
 
 
 ---
