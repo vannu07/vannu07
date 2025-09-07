@@ -209,13 +209,12 @@ print("Always curious, always coding! 🚀")
 ### 🐍 GitHub Snake Game - Eating My Commits!
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vannu07/vannu07/output/github-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vannu07/vannu07/output/github-snake-dark.svg">
-    <img alt="Snake eating my commits" src="https://raw.githubusercontent.com/vannu07/vannu07/output/github-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vannu07/vannu07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vannu07/vannu07/output/github-contribution-grid-snake.svg">
+    <img alt="Snake eating my commits" src="https://raw.githubusercontent.com/vannu07/vannu07/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
-</div>
 
 ---
 
