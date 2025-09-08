@@ -289,7 +289,11 @@ print("Always curious, always coding! 🚀")
 </div>
 
 ---
+<div align="center">
+<img src="https://github.com/knowShubhangi/knowShubhangi/blob/main/ezgif.com-crop.gif" alt="Tech Animation" width="820"/>
+</div>
 
+---
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
 </div>
