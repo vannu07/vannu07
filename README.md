@@ -20,6 +20,8 @@
 
 </div>
 
+[![An image of @vannu07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vannu07)](https://holopin.io/@vannu07)
+
 ---
 
 ## 🌟 About Me
