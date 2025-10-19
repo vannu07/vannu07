@@ -59,6 +59,27 @@ print("Always curious, always coding! 🚀")
 
 ---
 
+## 📊 GitHub Analytics & Stats
+
+<div align="center">
+
+### 🔥 My GitHub Journey
+
+<img src="https://github-readme-stats.vercel.app/api?username=vannu07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vannu07&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" alt="GitHub Streak" width="48%" />
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vannu07&custom_title=Varnit's%20Contribution%20Graph&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area_color=00F5FF&area=true&hide_border=true" width="100%" />
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=vannu07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+
+</div>
+
+---
+
 ## 🎯 Featured Projects
 
 <table>
@@ -206,8 +227,6 @@ print("Always curious, always coding! 🚀")
 
 </div>
 
-
-
 ### 🐍 GitHub Snake Game - Eating My Commits!
 <div align="center">
   <picture>
@@ -216,7 +235,6 @@ print("Always curious, always coding! 🚀")
     <img alt="Snake eating my commits" src="https://raw.githubusercontent.com/vannu07/vannu07/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
-
 
 ---
 
@@ -285,8 +303,6 @@ print("Always curious, always coding! 🚀")
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+turn+data+into+magic!;The+future+is+data-driven!;Ready+to+collaborate%3F" alt="Closing Animation" />
-
-</div>
 
 </div>
 
