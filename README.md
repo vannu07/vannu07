@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varnit%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20%7C%20ML%20Engineer%20%7C%20Python%20Developer&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varnit%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&" width="100%"/>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Animation" width="320"/>
 
