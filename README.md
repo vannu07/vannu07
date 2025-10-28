@@ -2,6 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varnit%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&" width="100%"/>
 
+<p align="center">
+  <a href="https://www.holopin.io/@vannu07">
+    <img src="https://holopin.me/vannu07" alt="@vannu07's Holopin badges" />
+  </a>
+</p>
+
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Animation" width="320"/>
 
 <p align="center">
