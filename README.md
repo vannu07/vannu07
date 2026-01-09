@@ -88,7 +88,7 @@ tech_stack = {
 [![GitHub](https://img.shields.io/badge/View_Code-black?logo=github&style=flat)](https://github.com/vannu07/Student-Performance)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40" />
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40" alt="Student performance analytics icon" />
 </div>
 
 **End-to-end MLOps pipeline with tracking**
