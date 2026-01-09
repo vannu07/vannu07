@@ -134,7 +134,7 @@ tech_stack = {
 [![GitHub](https://img.shields.io/badge/View_Code-black?logo=github&style=flat)](https://github.com/vannu07/Sentiment-Analysis)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" alt="Sentiment analysis icon" />
 </div>
 
 **NLP application with ensemble learning**
