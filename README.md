@@ -15,13 +15,15 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar.varnit.16@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/vannu07)
 
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="60" />
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Data Science Animation" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 **Machine Learning Engineer** specializing in production-ready AI systems and data-driven solutions. Based in New Delhi, India 🇮🇳
 
@@ -46,7 +48,13 @@ tech_stack = {
 }
 ```
 
+<br clear="right"/>
+
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
 
 ## 🏆 Featured Projects
 
@@ -56,6 +64,10 @@ tech_stack = {
 
 ### 🌾 **FarmIQ - AI Agriculture Platform**
 [![GitHub](https://img.shields.io/badge/View_Code-black?logo=github&style=flat)](https://github.com/vannu07/FarmIQ)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="40" />
+</div>
 
 **Production ML system optimizing crop yields**
 
@@ -74,6 +86,10 @@ tech_stack = {
 
 ### 📊 **Student Performance Analytics**
 [![GitHub](https://img.shields.io/badge/View_Code-black?logo=github&style=flat)](https://github.com/vannu07/Student-Performance)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40" />
+</div>
 
 **End-to-end MLOps pipeline with tracking**
 
@@ -95,6 +111,10 @@ tech_stack = {
 ### 🚦 **Real-time Traffic Sign Detection**
 [![GitHub](https://img.shields.io/badge/View_Code-black?logo=github&style=flat)](https://github.com/vannu07/Traffic-Sign-Detection)
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width="40" />
+</div>
+
 **Computer vision for autonomous systems**
 
 `Python` `TensorFlow` `OpenCV` `CNN`
@@ -113,6 +133,10 @@ tech_stack = {
 ### 💬 **Multi-Model Sentiment Analyzer**
 [![GitHub](https://img.shields.io/badge/View_Code-black?logo=github&style=flat)](https://github.com/vannu07/Sentiment-Analysis)
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" />
+</div>
+
 **NLP application with ensemble learning**
 
 `Python` `NLTK` `Streamlit` `Scikit-learn`
@@ -130,6 +154,10 @@ tech_stack = {
 </table>
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</p>
 
 ## 🛠️ Technical Skills
 
@@ -190,6 +218,10 @@ tech_stack = {
 
 ---
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
+
 ## 📈 GitHub Statistics
 
 <div align="center">
@@ -213,6 +245,10 @@ tech_stack = {
 
 ---
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+</p>
+
 ## 🎯 2026 Professional Goals
 
 ```
@@ -225,6 +261,10 @@ tech_stack = {
 ```
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+</p>
 
 ## 💼 Open For Opportunities
 
@@ -241,6 +281,8 @@ tech_stack = {
 ---
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ### 📫 Get In Touch
 
@@ -262,6 +304,8 @@ I'm always interested in discussing ML projects, data science opportunities, or 
     <img src="https://holopin.me/vannu07" alt="Holopin Badges" />
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" />
 
 </div>
 
