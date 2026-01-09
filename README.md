@@ -112,7 +112,7 @@ tech_stack = {
 [![GitHub](https://img.shields.io/badge/View_Code-black?logo=github&style=flat)](https://github.com/vannu07/Traffic-Sign-Detection)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width="40" />
+<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width="40" alt="Traffic light icon representing real-time traffic sign detection" />
 </div>
 
 **Computer vision for autonomous systems**
