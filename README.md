@@ -305,7 +305,7 @@ I'm always interested in discussing ML projects, data science opportunities, or 
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" />
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" alt="Decorative icon" />
 
 </div>
 
