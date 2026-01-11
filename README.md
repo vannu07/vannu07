@@ -224,12 +224,6 @@ tech_stack = {
 
 <div align="center">
 
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
 # 📊 GitHub Analytics
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
