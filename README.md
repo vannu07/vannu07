@@ -222,32 +222,59 @@ tech_stack = {
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="">
 </p>
 
-## 📈 GitHub Statistics
+<div align="center">
+
+# 📊 GitHub Analytics
+
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+
+</div>
+
+## 📈 Performance Metrics
 
 <div align="center">
 
 <table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=vannu07&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vannu07&theme=react&hide_border=true&background=1F222E&stroke=00F5FF&ring=00F5FF&fire=FF6D00&currStreakLabel=00F5FF" />
-</td>
-</tr>
+  <thead>
+    <tr>
+      <th scope="col">GitHub Stats</th>
+      <th scope="col">Top Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-rouge-three-16.vercel.app/api?username=vannu07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-rouge-three-16.vercel.app/api/top-langs/?username=vannu07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&card_width=300" width="100%" alt="Top Languages Compact" />
+      </td>
+    </tr>
+  </tbody>
 </table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vannu07&custom_title=Contribution%20Graph&bg_color=1F222E&color=00F5FF&line=00F5FF&point=FFFFFF&area_color=00F5FF&area=true&hide_border=true" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=vannu07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="100%" />
 
 </div>
 
+## 🔥 Contribution Intensity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vannu07&custom_title=Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=FFFFFF&line=F85D7F&point=FFFFFF&area_color=FE428E&title_color=FFFFFF&area=true" width="98%" alt="Contribution Graph" />
+
+</div>
+
+## 📅 Commit Heatmap
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/F85D7F/vannu07" width="98%" alt="Commit Heatmap" />
+
+</div>
+
+
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100" alt="">
-</p>
 
 ## 🎯 2026 Professional Goals
 
