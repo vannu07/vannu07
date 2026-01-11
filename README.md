@@ -236,14 +236,22 @@ tech_stack = {
 <div align="center">
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-rouge-three-16.vercel.app/api?username=vannu07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-rouge-three-16.vercel.app/api/top-langs/?username=vannu07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&card_width=300" width="100%" alt="Top Languages Compact" />
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th scope="col">GitHub Stats</th>
+      <th scope="col">Top Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-rouge-three-16.vercel.app/api?username=vannu07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-rouge-three-16.vercel.app/api/top-langs/?username=vannu07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&card_width=300" width="100%" alt="Top Languages Compact" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 </div>
