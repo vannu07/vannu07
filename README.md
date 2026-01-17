@@ -232,9 +232,7 @@ tech_stack = {
 </div>
 
 ## 📈 Performance Metrics
-
 <div align="center">
-
 <table>
   <thead>
     <tr>
@@ -254,8 +252,21 @@ tech_stack = {
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <th scope="col">🔥 GitHub Streak Stats</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vannu07&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="100%" alt="GitHub Streak Stats" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
-
 ## 🔥 Contribution Intensity
 
 <div align="center">
