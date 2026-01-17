@@ -233,6 +233,11 @@ tech_stack = {
 
 ## 📈 Performance Metrics
 <div align="center">
+
+<!-- Typing SVG Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Building+Amazing+Projects+%E2%9C%A8)](https://git.io/typing-svg)
+
+<!-- GitHub Stats and Top Languages -->
 <table>
   <thead>
     <tr>
@@ -252,6 +257,7 @@ tech_stack = {
   </tbody>
 </table>
 
+<!-- GitHub Streak Stats -->
 <table>
   <thead>
     <tr>
@@ -266,26 +272,36 @@ tech_stack = {
     </tr>
   </tbody>
 </table>
+
+<!-- Snake Animation -->
+<table>
+  <thead>
+    <tr>
+      <th scope="col"> Contribution Snake</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/vannu07/vannu07/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
+
 ## 🔥 Contribution Intensity
-
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vannu07&custom_title=Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=FFFFFF&line=F85D7F&point=FFFFFF&area_color=FE428E&title_color=FFFFFF&area=true" width="98%" alt="Contribution Graph" />
-
 </div>
 
 ## 📅 Commit Heatmap
-
 <div align="center">
-
 <img src="https://ghchart.rshah.org/F85D7F/vannu07" width="98%" alt="Commit Heatmap" />
-
 </div>
 
-
 ---
-
 
 ## 🎯 2026 Professional Goals
 
