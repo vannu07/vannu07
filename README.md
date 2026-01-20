@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varnit%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=ML+Engineer+%7C+Data+Scientist;Python+%7C+TensorFlow+%7C+AWS;Building+Production+ML+Systems;Turning+Data+into+Business+Value" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Python+%7C+TensorFlow+%7C+AWS;Building+Production+ML+Systems;Turning+Data+into+Business+Value" alt="Dynamic Typing" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 <img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Machine Learning Engineer** specializing in production-ready AI systems and data-driven solutions. Based in New Delhi, India 🇮🇳
+Aspiring Data Scientist specializing in data analysis and applied machine learning. Based in New Delhi, India 🇮🇳
 
 **Core Expertise:**
 - 🎯 Production ML deployment with 95%+ model accuracy
@@ -236,7 +236,7 @@ tech_stack = {
 <div align="center">
 
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Building+Amazing+Projects+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Open+Source+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Building+Amazing+Projects+%E2%9C%A8)](https://git.io/typing-svg)
 
 <!-- GitHub Stats and Top Languages -->
 <table>
