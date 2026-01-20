@@ -11,9 +11,10 @@
   <img src="https://img.shields.io/github/followers/vannu07?color=blueviolet&style=for-the-badge&logo=github&label=FOLLOWERS" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varnit-kumar-0883bb251)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar.varnit.16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varnit-kumar-0883bb251) 
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar.varnit.16@gmail.com) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/vannu07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vk-syntax.vercel.app/)
 
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="60" alt="Decorative horizontal divider icon" />
 
@@ -332,11 +333,14 @@ tech_stack = {
 
 </div>
 
----
+### 🌐 **Portfolio:** [vk-syntax.vercel.app](https://vk-syntax.vercel.app/)
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+
+
 
 ### 📫 Get In Touch
 
